@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ErrorHandling/.idea/modules/errorhandling.iml" filepath="$PROJECT_DIR$/ErrorHandling/.idea/modules/errorhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErrorHandling/.idea/modules/errorhandling-build.iml" filepath="$PROJECT_DIR$/ErrorHandling/.idea/modules/errorhandling-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErrorHandlingExamples/.idea/modules/errorhandlingexamples.iml" filepath="$PROJECT_DIR$/ErrorHandlingExamples/.idea/modules/errorhandlingexamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErrorHandlingExamples/.idea/modules/errorhandlingexamples-build.iml" filepath="$PROJECT_DIR$/ErrorHandlingExamples/.idea/modules/errorhandlingexamples-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionAndOtherExamples/.idea/modules/optionandotherexamples.iml" filepath="$PROJECT_DIR$/OptionAndOtherExamples/.idea/modules/optionandotherexamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionAndOtherExamples/.idea/modules/optionandotherexamples-build.iml" filepath="$PROJECT_DIR$/OptionAndOtherExamples/.idea/modules/optionandotherexamples-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionAndOthers/.idea/modules/optionandothers.iml" filepath="$PROJECT_DIR$/OptionAndOthers/.idea/modules/optionandothers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionAndOthers/.idea/modules/optionandothers-build.iml" filepath="$PROJECT_DIR$/OptionAndOthers/.idea/modules/optionandothers-build.iml" />
+    </modules>
+  </component>
+</project>

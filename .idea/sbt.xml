@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ErrorHandling" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ErrorHandling" />
+            <option value="$PROJECT_DIR$/ErrorHandling/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ErrorHandlingExamples" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ErrorHandlingExamples" />
+            <option value="$PROJECT_DIR$/ErrorHandlingExamples/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OptionAndOtherExamples" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/OptionAndOtherExamples" />
+            <option value="$PROJECT_DIR$/OptionAndOtherExamples/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OptionAndOthers" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/OptionAndOthers" />
+            <option value="$PROJECT_DIR$/OptionAndOthers/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OptionExamples" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/OptionExamples" />
+            <option value="$PROJECT_DIR$/OptionExamples/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

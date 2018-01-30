@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f924c0a0-e8c4-4fd5-b974-18351a443e62" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/OptionExamples/target/" />
+    <ignored path="$PROJECT_DIR$/OptionExamples/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/OptionExamples/project/target/" />
+    <ignored path="$PROJECT_DIR$/ErrorHandling/target/" />
+    <ignored path="$PROJECT_DIR$/ErrorHandling/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/ErrorHandling/project/target/" />
+    <ignored path="$PROJECT_DIR$/OptionAndOthers/target/" />
+    <ignored path="$PROJECT_DIR$/OptionAndOthers/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/OptionAndOthers/project/target/" />
+    <ignored path="$PROJECT_DIR$/ErrorHandlingExamples/target/" />
+    <ignored path="$PROJECT_DIR$/ErrorHandlingExamples/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/ErrorHandlingExamples/project/target/" />
+    <ignored path="$PROJECT_DIR$/OptionAndOtherExamples/target/" />
+    <ignored path="$PROJECT_DIR$/OptionAndOtherExamples/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/OptionAndOtherExamples/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ErrorHandling">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ErrorHandlingExamples">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/OptionAndOtherExamples">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/OptionAndOthers">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/OptionExamples">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OptionExamples/src/test/scala/com/thor/tech/examples/Test.scala" />
+        <option value="$PROJECT_DIR$/OptionExamples/src/main/scala/com/thor/tech/examples/OptionExamples.scala" />
+        <option value="$PROJECT_DIR$/OptionExamples/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/OptionExamples.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/UrlConnector.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestOptionExamples.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExampleClient.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandlingExamples/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandlingExamples/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+        <option value="$PROJECT_DIR$/ErrorHandlingExamples/src/main/scala/com/thor/tech/examples/error/TryExampleClient.scala" />
+        <option value="$PROJECT_DIR$/OptionAndOtherExamples/src/main/scala/com/thor/tech/examples/OptionExamples.scala" />
+        <option value="$PROJECT_DIR$/OptionAndOtherExamples/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="900" />
+    <option name="y" value="407" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="repo-scala-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorHandlingExamples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repo-scala-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorHandlingExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repo-scala-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorHandlingExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repo-scala-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorHandlingExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repo-scala-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorHandlingExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="error" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OptionAndOtherExamples" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OptionAndOtherExamples/src/test/scala/com/thor/tech/examples" />
+      <recent name="$PROJECT_DIR$/OptionAndOtherExamples/src/main/scala/com/thor/tech/examples" />
+      <recent name="$PROJECT_DIR$/ErrorHandlingExamples/src/main/scala/com/thor/tech/examples/error" />
+      <recent name="$PROJECT_DIR$/ErrorHandlingExamples/src/test/scala/com/thor/tech/examples/error" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="ScalaTest.TestTryExamples">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.thor.tech.examples.error.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.thor.tech.examples.error.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="errorhandling" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="errorhandlingexamples" />
+      <setting name="path" value="thor.tech.roman.Test" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+    </configuration>
+    <configuration name="TestOptionExamples" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="optionandotherexamples" />
+      <setting name="path" value="com.thor.tech.examples.TestOptionExamples" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+    </configuration>
+    <configuration name="TestTryExamples" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="errorhandlingexamples" />
+      <setting name="path" value="com.thor.tech.examples.error.TestTryExamples" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="optionexamples-build" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.Test" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.TestTryExamples" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.TestOptionExamples" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.TestTryExamples" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.TestOptionExamples" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1517337359297" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ErrorHandling" />
+              <option name="path" value="$PROJECT_DIR$/ErrorHandling" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="errorhandling" />
+                <option name="path" value="$PROJECT_DIR$/ErrorHandling" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="errorhandling-build" />
+                <option name="path" value="$PROJECT_DIR$/ErrorHandling/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ErrorHandlingExamples" />
+              <option name="path" value="$PROJECT_DIR$/ErrorHandlingExamples" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="errorhandlingexamples" />
+                <option name="path" value="$PROJECT_DIR$/ErrorHandlingExamples" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="errorhandlingexamples-build" />
+                <option name="path" value="$PROJECT_DIR$/ErrorHandlingExamples/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="OptionAndOtherExamples" />
+              <option name="path" value="$PROJECT_DIR$/OptionAndOtherExamples" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="optionandotherexamples" />
+                <option name="path" value="$PROJECT_DIR$/OptionAndOtherExamples" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="optionandotherexamples-build" />
+                <option name="path" value="$PROJECT_DIR$/OptionAndOtherExamples/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="OptionExamples" />
+              <option name="path" value="$PROJECT_DIR$/OptionExamples" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="optionexamples" />
+                <option name="path" value="$PROJECT_DIR$/OptionExamples" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="optionexamples-build" />
+                <option name="path" value="$PROJECT_DIR$/OptionExamples/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="OptionExamples" />
+              <option name="path" value="$PROJECT_DIR$/OptionAndOthers" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="optionandothers" />
+                <option name="path" value="$PROJECT_DIR$/OptionAndOthers" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="optionandothers-build" />
+                <option name="path" value="$PROJECT_DIR$/OptionAndOthers/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f924c0a0-e8c4-4fd5-b974-18351a443e62" name="Default" comment="" />
+      <created>1513250939289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513250939289</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestTryExamples - 2017.12.19 at 15h 53m 41s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2017.12.19 at 15h 54m 35s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2017.12.19 at 15h 54m 42s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2017.12.19 at 15h 57m 04s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2017.12.19 at 15h 58m 46s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2017.12.19 at 16h 30m 26s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2018.01.15 at 12h 30m 06s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2018.01.30 at 18h 39m 34s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2018.01.30 at 19h 58m 28s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTryExamples - 2018.01.30 at 20h 07m 06s.xml">
+      <configuration name="TestTryExamples" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="900" y="407" width="3200" height="1765" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935393" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22339676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26464906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6601124" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935393" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60603935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24983902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6601124" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/main/scala/com/thor/tech/examples/OptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/main/scala/com/thor/tech/examples/OptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/main/scala/com/thor/tech/examples/OptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExampleClient.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExampleClient.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExampleClient.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOthers/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/build.sbt" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOthers/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+    <entry file="jar:///usr/java/jdk1.8.0_152/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="977" column="25" lean-forward="false" selection-start-line="977" selection-start-column="25" selection-end-line="977" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandling/src/main/scala/com/thor/tech/examples/error/TryExampleClient.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandlingExamples/src/test/scala/thor/tech/roman/Test.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandlingExamples/src/main/scala/com/thor/tech/examples/error/TryExample.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandlingExamples/src/main/scala/com/thor/tech/examples/error/TryExampleClient.scala" />
+    <entry file="file://$PROJECT_DIR$/ErrorHandlingExamples/src/test/scala/com/thor/tech/examples/error/TestTryExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/test/scala/com/thor/tech/examples/TestOptionExamples.scala" />
+    <entry file="file://$PROJECT_DIR$/OptionAndOtherExamples/src/main/scala/com/thor/tech/examples/OptionExamples.scala" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>errorhandling-build</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>SBT: org.scala-lang:scala-library:2.11.8:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
