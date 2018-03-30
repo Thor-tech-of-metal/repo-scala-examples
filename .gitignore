@@ -28,3 +28,8 @@
 .FutureExamples/.idea
 .FutureExamples/project
 .FutureExamples/target
+
+.GeneralExamplesLang/.idea
+.GeneralExamplesLang/project
+.GeneralExamplesLang/target
+
