@@ -1,9 +1,9 @@
-package com.thor.tech.examples.error
+package com.thor.tech.examples.error.trY
 
-import java.io.{FileNotFoundException, InputStream}
-import java.net.{MalformedURLException, URL}
+import java.io.FileNotFoundException
+import java.net.MalformedURLException
 
-import scala.util.{Failure, Success, Try}
+import scala.util.{Failure, Success}
 
 object TryExampleClient {
 
@@ -68,7 +68,7 @@ object TryExampleClient {
 
   def forComprehensionATry(input: String): Either[String, String] = {
 
-    TryExample.getURLContent(input) map {
+    TryExample.getURLContent(input) map  {
       element =>
         println(element)
         Right("Ok")

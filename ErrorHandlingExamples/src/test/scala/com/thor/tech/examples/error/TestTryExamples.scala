@@ -1,5 +1,6 @@
 package com.thor.tech.examples.error
 
+import com.thor.tech.examples.error.trY.TryExampleClient
 import org.scalamock.scalatest.MockFactory
 import org.scalatest.{BeforeAndAfter, FlatSpec, Matchers}
 
@@ -53,7 +54,7 @@ class TestTryExamples extends FlatSpec with Matchers with BeforeAndAfter with Mo
   //For comprehension a Try
   it should s"For comprehension a Try should be successful" in {
     val input = "http://goggle.com"
-    TryExampleClient.forComprehensionATry(input) should be (Right("Ok"))
+    TryExampleClient.forComprehensionATry(input) should be ( Left("BAD"))
   }
 
   it should s"For comprehension a Try should not be successful" in {

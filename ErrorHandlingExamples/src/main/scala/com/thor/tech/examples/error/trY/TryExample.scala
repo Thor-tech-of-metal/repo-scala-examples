@@ -1,4 +1,4 @@
-package com.thor.tech.examples.error
+package com.thor.tech.examples.error.trY
 
 import java.io.InputStream
 import java.net.URL
