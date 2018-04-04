@@ -23,3 +23,13 @@
 .Shell-empty-project-scala/.idea
 .Shell-empty-project-scala/target
 .Shell-empty-project-scala/project
+
+
+.FutureExamples/.idea
+.FutureExamples/project
+.FutureExamples/target
+
+.GeneralExamplesLang/.idea
+.GeneralExamplesLang/project
+.GeneralExamplesLang/target
+
