@@ -1,13 +1,15 @@
 # repo-scala-examples
 scala examples. 
 
-OptionAndOtherExamples
+#### repo-scala-examples
 
-ErrorHandlingExamples
+* OptionAndOtherExamples
 
-Shell-empty-project-scala
+* ErrorHandlingExamples
 
-FutureExamples
+* Shell-empty-project-scala
 
-GeneralExamplesLang
+* FutureExamples
+
+* GeneralExamplesLang
 
