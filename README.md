@@ -3,6 +3,9 @@ scala examples.
 
 #### repo-scala-examples
 
+
+* Shell-empty-project-scala
+
 * OptionAndOtherExamples
 
 * ErrorHandlingExamples
@@ -12,4 +15,7 @@ scala examples.
 * FutureExamples
 
 * GeneralExamplesLang
+
+* Scala-coursera/.idea
+
 
