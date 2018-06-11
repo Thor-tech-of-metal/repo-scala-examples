@@ -1,9 +1,10 @@
+package week3
 /**
   * Let’s consider implementing sets as binary trees.
   * There are two types of possible trees: a tree for the empty set,
   * and a tree consisting of an integer and two sub-trees.
   */
-package object trees {
+object trees {
 
   var t1 = new NonEmpty(3, Empty, Empty)
   var t2 = t1 incl 4

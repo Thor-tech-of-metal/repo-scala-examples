@@ -1,4 +1,6 @@
-package object operators {
+package week3
+
+object operators {
 
   val rational1 = new RationalsWithOperators(1, 3)
   val rationals2 = new RationalsWithOperators(5, 7)
