@@ -1,7 +1,8 @@
+package week3
 /**
   * Created by thor on 30/06/16.
   */
-package object rationals {
+object rationals {
 
   val rational1 = new Rationals(1, 3)
   val rationals2 = new Rationals(5, 7)

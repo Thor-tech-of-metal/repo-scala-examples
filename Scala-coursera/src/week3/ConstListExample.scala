@@ -1,4 +1,5 @@
-package object ConstListExample {
+package week3
+object ConstListExample {
 
   val myList= List(List(true, false), List(3))
   val myList2= List(1,2,3)
