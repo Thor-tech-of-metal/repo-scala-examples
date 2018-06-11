@@ -11,3 +11,8 @@
 * Visibility: Some extra scala visibility such us private[package] and private[this] 
 
 
+How to run:
+
+``
+ sbt clean compile test 
+``
