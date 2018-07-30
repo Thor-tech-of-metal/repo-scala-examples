@@ -33,8 +33,14 @@
 .GeneralExamplesLang/project
 .GeneralExamplesLang/target
 
-
 .Scala-coursera/.idea
 .Scala-coursera/project
 .Scala-coursera/target
+
+.ObjectProgrammingExample/.idea
+.ObjectProgrammingExample/project
+.ObjectProgrammingExample/target
+
+
+
 

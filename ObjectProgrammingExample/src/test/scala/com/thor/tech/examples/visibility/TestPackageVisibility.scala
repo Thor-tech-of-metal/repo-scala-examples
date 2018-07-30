@@ -1,8 +1,6 @@
-package com.thor.tech.examples
+package com.thor.tech.examples.visibility
 
-import com.thor.tech.examples.visibility.PackageProtected
-
-class Test {
+class TestPackageVisibility {
   val f = new PackageProtected
 
   //************************* .doX cannot see inside [visibility] package******************
