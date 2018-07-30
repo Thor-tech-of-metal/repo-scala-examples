@@ -53,7 +53,7 @@ class ListExamples {
     case (0, head :: tail   ) => head
     case (position, head :: tail) => getElement(position - 1, tail)
     case (_, Nil) => throw new NoSuchElementException
-    case List() => throw new Error("The list cannot be empty")
+    case List.empty => throw new Error("The list cannot be empty")
   }
 
 

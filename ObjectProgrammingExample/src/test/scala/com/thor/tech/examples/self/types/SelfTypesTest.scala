@@ -1,6 +1,5 @@
 package com.thor.tech.examples.self.types
 
-import com.thor.tech.examples.implicits.utils.StringImprovements._
 import org.scalamock.scalatest.MockFactory
 import org.scalatest.{BeforeAndAfter, FlatSpec, Matchers}
 
