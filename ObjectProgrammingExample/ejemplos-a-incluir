@@ -1,3 +1,7 @@
 Todo
 ===
 1) hacer ejemplos de Monad
+
+
+1) Hacer s AmmoMagazine[+A <: Bullet]( del ejemplo file:///home/skynet/Desktop/scala-vuelo/Covariance%20and%20contravariance%20in%20Scala%20%E2%80%93%20Kamil%20Korzekwa%20%E2%80%93.html
+2) enetnder AmmoMagazine[+A <: Bullet] y ponerlo en el resumen del one drive !!!!
