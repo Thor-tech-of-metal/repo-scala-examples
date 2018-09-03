@@ -16,7 +16,9 @@ final  case class CulosMagazine[+A <: SuperCulo](  val lindosLocus: List[A], val
 
     lindosLocus match {
       case Nil =>  None
-      case head :: tail => { Some( new CulosMagazine(tail,Some(head))) }
+      case head :: tail => {
+        Some( new CulosMagazine(tail,Some(head)))
+      }
     }
 
 }

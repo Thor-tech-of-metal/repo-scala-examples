@@ -6,7 +6,7 @@ trait SuperCulo{
   def name:String
   def show:String
 
-  override def toString = s"Toto($name, $show)"
+  override def toString = s"SuperCulo($name, $show)"
 
   def canEqual(other: Any): Boolean = other.isInstanceOf[Toto]
 
@@ -27,22 +27,36 @@ trait SuperCulo{
 class NormalSuperCulo (override val name:String)  extends SuperCulo{
 
   override def show: String = s"This is a normal culo in ${name}"
+
+  override def equals(other: Any): Boolean = super.equals(other)
+
+  override def hashCode(): Int = super.hashCode()
 }
 
 
 class ExplosiveSuperCulo (override val name:String) extends NormalSuperCulo(name = "") {
 
   override def show: String = s"This is a explosive super culo in ${name}"
+
+  override def equals(other: Any): Boolean = super.equals(other)
+
+  override def hashCode(): Int = super.hashCode()
 }
 
 
 class Culazo (override val name:String) extends ExplosiveSuperCulo (name = ""){
 
   override def show: String = s"This is a culazo  culo in ${name}"
+
+  override def equals(other: Any): Boolean = super.equals(other)
+
+  override def hashCode(): Int = super.hashCode()
 }
 
 class Toto(override val name:String) extends Culazo (name = ""){
 
   override def show: String = s"This is a toto culo in ${name}"
+
+  override def equals(other: Any): Boolean = super.equals(other)
 
 }
