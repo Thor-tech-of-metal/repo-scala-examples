@@ -8,7 +8,7 @@ trait User {
 
 trait Tweeter {
   this: User =>  // reassign this
-  def tweet(tweetText: String) = s"$username: $tweetText"
+    def tweet(tweetText: String) = s"$username: $tweetText"
 }
 
 
