@@ -18,18 +18,24 @@ case object Currying {
     val res1 = Currying.currysum2(2)(3)
     val res2 = Currying.currysum2(2)(3)(4)
     val res3 = Currying.currysum3(2)(3)(4)
+
     val res4a = (Currying currysum4 2)
     val res4b = res4a(3)
     val res4 = res4b(4)
+
     val res5 = Currying.nocurrysum(2, 3, 4)
     val resno = ((Currying.nocurrysum(2, _:Int, _:Int))(3, _:Int))(4)
 
-    println(res)
-    println(res1)
-    println(res2)
-    println(res3)
-    println(res4)
-    println(res5)
+    println(s"Currying.currysum(2)(3)(4) result: $res" )
+    println(s"Currying.currysum2(2)(3) result: $res1")
+    println(s"Currying.currysum2(2)(3)(4) result: $res2" )
+
+    println(s"Currying.currysum3(2)(3)(4) result: $res3$)
+
+    println(s"(Currying currysum4 2) result: $res4a")
+    println(s"res4a(3) result: $res4b")
+    println(s"res4b(4) result: $res4")
+
     println(resno)
   }
 }

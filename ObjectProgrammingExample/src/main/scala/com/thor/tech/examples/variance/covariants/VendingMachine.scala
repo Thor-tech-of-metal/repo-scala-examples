@@ -26,7 +26,7 @@ case class VendingMachine[+A](val currentItem: Option[A], items: List[A]) {
   /**
     * This method is going add a List of Drinks in the immutable list.
     * @param newItems List of Drinks
-    * @tparam B [B :> A] B is sub class of A.
+    * @tparam B [B :> A] is a lower type bound. It means that B is constrained to be a supertype of A.
     * @return a new instance of the VendingMachine.
     */
   def addAll[B >: A](newItems: List[B]): VendingMachine[B] = new VendingMachine(items ++ newItems)
